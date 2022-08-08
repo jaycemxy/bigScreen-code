@@ -41,7 +41,7 @@ export const Chart14 = ()=>{
           <td>22</td>
         </tr>
 
-        <tr>
+        {/* <tr>
           <td rowSpan={3}>扒窃</td>
           <td>公交车扒窃</td>
           <td>40</td>
@@ -54,7 +54,7 @@ export const Chart14 = ()=>{
         <tr>
           <td>车站扒窃</td>
           <td>45</td>
-        </tr>
+        </tr> */} 
 
         <tr>
           <td rowSpan={2}>诈骗</td>
